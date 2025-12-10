@@ -43,14 +43,6 @@ Utilization Ratio (%) = (Total Outstanding / Credit Limit) × 100
 5. Delinquent Account
 A Delinquent Account is a credit card account where the customer has not paid the minimum due amount by the due date.
 It reflects missed or late payments.
-# Delinquency is measured by Days Past Due (DPD)
-Common buckets in banking:
-Bucket	                 Meaning
-0 DPD	      No delinquency (current account)
-1–30 DPD	       Minor delay
-31–60 DPD	       Early stage delinquency
-61–90 DPD	       Sub-standard
->90 DPD	       NPA (Non-Performing Asset) / written off risk
 
 6. Customer_Acq_Cost:    Customer Acquisition Cost (CAC) for one customer:
 How much money the bank spent to bring that customer in.
