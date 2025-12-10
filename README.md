@@ -12,10 +12,10 @@ Credit Card Dashboard & Customer Dashboard Project
 •	Used Postgresql Database for data storage, cleaning, and transformation — performed joins, aggregations, and filtering to prepare analysis-ready data
 
 •	Created DAX measures to calculate KPIs:
-1	Total Revenue
-2	Total Transaction Amount & Count
-3	Customer Count
-4	Week-over-Week changes
+1.Total Revenue
+2.Total Transaction Amount & Count
+3.Customer Count
+4.Week-over-Week changes
 
 •	Built visualizations to analyze Revenue, Transaction Amount, and Customer behavior by Gender, Category, Region, and Age Group.
 
