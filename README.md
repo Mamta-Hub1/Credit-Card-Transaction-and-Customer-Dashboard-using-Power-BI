@@ -26,21 +26,21 @@ Credit Card Dashboard & Customer Dashboard Project
 
 
 Credit Card Transaction Database Terms:
-1. Credit Card Limit
+1. Credit Card Limit:
 •	This is the maximum amount a customer is allowed to spend on the card.
 •	It is decided by the bank based on income, credit score, repayment history, and risk profile.
 
-2.Revolving Balance / Outstanding Balance
+2.Revolving Balance / Outstanding Balance:
 •	The remaining unpaid amount that is carried over to the next billing cycle.
 •	When a customer does not pay the full amount, the remaining balance becomes revolving balance.
 •	Interest (finance charges) is charged on this amount.
 
-3. Average Utilization Ratio
+3. Average Utilization Ratio:
 •	Measures how much of the credit limit the customer is using on average.
 •	Formula:
 Utilization Ratio (%) = (Total Outstanding / Credit Limit) × 100
 
-5. Delinquent Account
+5. Delinquent Account:
 A Delinquent Account is a credit card account where the customer has not paid the minimum due amount by the due date.
 It reflects missed or late payments.
 
@@ -52,18 +52,16 @@ Banks spend money on:
 •	Sales people
 •	Offers & gifts
 •	Verification cost
+
 This money is spent to get new customers.
 So we do:
 Money spent to get customers/Number of customers gained=Cost for each customer
-Example
+Example:
 Bank spent ₹1,00,000 to run a credit card ad.
 From that ad, they got 100 customers.
 So:
 ₹1,00,000 ÷ 100 = ₹1,000 per customer
 ➡ ₹1,00,000 ÷ 100 = ₹1,000 per customer
-
-
-
 
 ➡ Each customer cost ₹1,000 to acquire
 Each customer cost ₹1,000 to acquire
